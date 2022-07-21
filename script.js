@@ -177,6 +177,190 @@ new Vue({
             url: "https://www.youtube.com/watch?v=Xf-N1joH6h4",
             favorited: false
           },
+          {
+            name: "Sidhu Moose Wala | Blockboi Twitch  | Moosetape  ",
+            artist: "G - Shit",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/G-Shit%20(feat.%20Blockboi%20Twitch)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=YPPEZiDF4Xw",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  | Moosetape  ",
+            artist: "Built Different",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Built%20Different%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=y-abKv4oqjk",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala |  Moosetape  ",
+            artist: "Amli Talk",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Amli%20Talk%20(Skit)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=Ik9xqwWiIok",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  | Moosetape  ",
+            artist: "Amora",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Aroma%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=tghIoadPRgE",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala | Stefflon Don |  Moosetape  ",
+            artist: "INVINCIBLE ",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Invincible%20(feat.%20Stefflon%20Don)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=n8M1PvCyKwA",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  | Moosetape  ",
+            artist: "B & W",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/B%20%26%20W%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=QM3PkDGQEDM",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  |  Moosetape  ",
+            artist: "PIND HOOD DAMN GOOD (MALWA BLOCK INTRO)",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Pind%20Hood%20Damn%20Good%20(MGR%20Intro)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=Y_pHLV8Rfzw",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  | Moosetape  ",
+            artist: "Malwa Block",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Malwa%20Block%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=7uVIzQYdbGk",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala |  Moosetape  ",
+            artist: "Regret",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Regret%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=xgMGfOt7XhU",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  | Moosetape  ",
+            artist: "Ultimatum",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Ultimatum%20(Intro)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=ybPbyWHJPKA",
+            favorited: false
+          },
+          {
+            name: " Sidhu Moose Wala | Bohemia  |  Moosetape  ",
+            artist: "These Days ",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/These%20Days%20(feat.%20Bohemia)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=gnpw_Z-mBlY",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala  | Moosetape  ",
+            artist: "Ultimatum (Intro)",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Ultimatum%20(Intro)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=ybPbyWHJPKA",
+            favorited: false
+          },
+          {
+            name: " Sidhu Moose Wala | Moosetape  ",
+            artist: "Sidhu son",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Sidhu%20Son%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=xIpQgJ-fGK8",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala | Moosetape  ",
+            artist: "Me & My Girlfriend ",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Me%20and%20My%20Girlfriend%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=7DPcBQ1sjX4",
+            favorited: false
+          },
+          {
+            name: " Sidhu Moose Wala | Moosetape  ",
+            artist: "Chachu Huu (Skit)",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Chacha%20Huu%20(Skit)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=4BoIRXjg7J8",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala | Moosetape  ",
+            artist: "Brown Shortie ",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Brown%20Shortie%20(feat.%20Sonam%20Bajwa)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=AKg-PRzEuqo",
+            favorited: false
+          },
+          {
+            name: " Sidhu Moose Wala| Sonam Bajwan | Moosetape  ",
+            artist: "Boo call (Skit)",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Boo%20Call%20(Skit)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=c01R-h5wRcU",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala | Feat Divine | Moosetape  ",
+            artist: "Moosedrilla",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosedrilla%20(feat.%20DIVINE)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=GFUJ5mG_4NI",
+            favorited: false
+          },
+          {
+            name: " Sidhu Moose Wala| Raja Kumari | Moosetape  ",
+            artist: "US",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/US%20(feat.%20Raja%20Kumari)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=c8UUWkUJu6E",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala | Feat Sikander | Moosetape  ",
+            artist: "Racks and Rounds",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Racks%20and%20Rounds%20(feat.%20Sikander%20Kahlon)%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=b8hwZidIOEA",
+            favorited: false
+          },
+          {
+            name: " Sidhu Moose Wala | Moosetape ",
+            artist: "Burberry",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Burberry.mp3%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=I1Llz8075MA",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala | Afsana Khan | Moosetape  ",
+            artist: "UNFUCKWITHABLE ",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Unfuckwithable%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=tZt3Tp0MFZk",
+            favorited: false
+          },
+          {
+            name: "Sidhu Moose Wala |  Moosetape  ",
+            artist: "Bitch I'm Back",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Moosetape.jpg",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Bitch%20I'm%20Back%20(DJJOhAL.Com).mp3",
+            url: "https://www.youtube.com/watch?v=W5NgXKe4SJk",
+            favorited: false
+          },
         ],
         currentTrack: null,
         currentTrackIndex: 0,
