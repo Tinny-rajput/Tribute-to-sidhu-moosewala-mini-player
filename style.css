@@ -331,7 +331,7 @@ body {
       box-shadow: 0px 17px 20px -6px rgba(36, 52, 70, 0.36);
     }
   }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 450px) {
     .github-btn {
       position: relative;
       bottom: auto;
