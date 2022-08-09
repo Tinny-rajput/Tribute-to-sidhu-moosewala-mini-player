@@ -313,7 +313,7 @@ body {
   .github-btn {
     position: absolute;
     right: 40px;
-    bottom: 50px;
+    bottom: -50px;
     text-decoration: none;
     padding: 15px 25px;
     border-radius: 4px;
@@ -331,7 +331,7 @@ body {
       box-shadow: 0px 17px 20px -6px rgba(36, 52, 70, 0.36);
     }
   }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 500px) {
     .github-btn {
       position: relative;
       bottom: auto;
@@ -383,14 +383,7 @@ body {
     pointer-events: none;
     opacity: 0;
   }
-.myname .name {
-  align-items: center;
-  justify-content: center;
-  margin-left: 85%;
-  color: blue;
-  text-decoration-line: underline;
-  font-style: italic;
-}
+
   
   /*# sourceMappingURL=main.css.map */
   
