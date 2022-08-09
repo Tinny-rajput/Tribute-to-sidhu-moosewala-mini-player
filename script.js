@@ -361,6 +361,14 @@ new Vue({
             url: "https://www.youtube.com/watch?v=W5NgXKe4SJk",
             favorited: false
           },
+            {
+            name: "Sidhu Moose Wala ",
+            artist: "Phantom",
+            cover: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/sidhu-moosewala-16538305104x3.webp",
+            source: "https://raw.githubusercontent.com/Tinny-rajput/Tribute-to-sidhu-moose-wala/master/Phantom-Sidhu_Moose_Wala-(Djjaani.com).mp3",
+            url: "https://www.youtube.com/watch?v=0n83LS7cYII",
+            favorited: false
+          },
         ],
         currentTrack: null,
         currentTrackIndex: 0,
